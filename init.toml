@@ -48,6 +48,7 @@ name = 'autocomplete_refine'
 
 [[layers]]
 name = 'git'
+git-plugin = 'fugitive'
 
 [[layers]]
 name = 'fzf'
