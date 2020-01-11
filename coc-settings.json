@@ -1,6 +1,5 @@
 {
   "javascript.suggestionActions.enabled": false,
   "suggest.enablePreview": true,
-  "eslint.autoFixOnSave": true,
-  "git.enableGutters": true
+  "eslint.autoFixOnSave": true
 }
