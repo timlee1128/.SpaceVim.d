@@ -3,4 +3,5 @@ function! config#before() abort
   set fu    " set fullscreen
   set vb t_vb=  " disable noise
   set updatetime = 100  " gitgutter wait
+  set showcmd
 endfunction
